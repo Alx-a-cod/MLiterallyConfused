@@ -82,16 +82,9 @@ A technical report (PDF, prepared in **LaTeX**) includes:
 
 ---
 
-#### ✐˚ ༘ 𓂃⊹ Notes  
-
-This repository was created as part of a **university Machine Learning course**.  
-It aims to combine correctness, clarity, and a small dose of humor — because even confusion matrices deserve a smile.
-
----
-
 ##### 🔖 License
 
-This project is developed as part of an academic requirement. Licensing details TBD, but Apache 2.0 just to be on the safer side.
+Developed as part of an academic requirement. Licensing details TBD, but Apache 2.0 just to be on the safer side.
 
 ---
   
