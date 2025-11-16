@@ -1,0 +1,47 @@
+# --- Python / Jupyter ---
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.DS_Store
+
+# Ambiente virtuale (not in use, but never you mind) 
+venv/
+.env/
+.venv/
+
+# --- Datasets ---
+# Ignora tutti i dataset CSV tranne quelli che si vuole davvero nel repo
+*.csv
+# per tenere solo diabetes.csv:
+!diabetes.csv
+
+# --- Output ---
+*.log
+*.out
+*.aux
+
+# --- Latex build ---
+*.pdf
+*.synctex.gz
+*.bbl
+*.blg
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+
+# Cartelle di build di LaTeX
+build/
+out/
+
+# --- Jupyter / Colab ---
+# I notebook di solito si versionano, quindi non ignoriamo *.ipynb
+# MA tutti i cache temporanei sì
+.ipynb_checkpoints/
+
+# --- Sistema operativo ---
+Thumbs.db
+.DS_Store
