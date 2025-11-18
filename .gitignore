@@ -24,6 +24,7 @@ venv/
 
 # --- Latex build ---
 *.pdf
+!Assignment*.pdf
 *.synctex.gz
 *.bbl
 *.blg
