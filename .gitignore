@@ -25,6 +25,8 @@ venv/
 # --- Latex build ---
 *.pdf
 !Assignment*.pdf
+!ML_Paper_Assign_2.pdf
+!Comparative_analysis__assign_2.pdf
 *.synctex.gz
 *.bbl
 *.blg
