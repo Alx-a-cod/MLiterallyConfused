@@ -243,7 +243,6 @@ A comprehensive **40-page LaTeX technical report** includes:
 ### Project 2 (Part 5):
 1. **Technical Report (PDF)** — 40-page comprehensive comparative analysis with 19 figures
 2. **Jupyter Notebook** — Complete implementation with all three datasets
-3. **19 PNG Visualizations** — High-quality figures for all analyses
 
 ---
 
